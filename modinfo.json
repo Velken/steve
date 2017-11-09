@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "STEVE",
+    "name": "STEVE",
+    "description": "Adds Simcity 2000's alien STEVE.",
+    "category": "creatures",
+    "dependencies": [ "dda" ],
+    "obsolete": false
+  }
+]
